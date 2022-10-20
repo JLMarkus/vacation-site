@@ -1,0 +1,8 @@
+body {
+  background-color: lightgreen;
+}
+
+h1, h2, h3 {
+  color: red;
+  text-decoration: underline;
+}
